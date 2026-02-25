@@ -401,3 +401,9 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+
+## Citation and License
+This repository is released under the MIT License.  
+A citable version of the software is available on Zenodo: [10.5281/zenodo.18770348](https://doi.org/10.5281/zenodo.18770348).  
+See the [CITATION.cff](CITATION.cff) file for citation details.
+
