@@ -1,0 +1,35 @@
+{
+  "@context": [
+    "https://doi.org/10.5063/schema/codemeta-2.0",
+    {
+      "@language": "en"
+    }
+  ],
+  "@type": "SoftwareSourceCode",
+  "name": "WoodDetection",
+  "description": "Scripts and utilities to assist with wood detection libraries and computer vision workflows.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "identifier": "https://doi.org/10.5281/zenodo.18770348",
+  "codeRepository": "https://github.com/rahbariany/WoodDetection",
+  "datePublished": "2026-02-25",
+  "developmentStatus": "maintenance",
+  "programmingLanguage": ["Python"],
+  "keywords": ["wood detection", "computer vision", "segmentation", "metadata"],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "MohammadMahdi",
+      "familyName": "Rahbarian",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "User"
+      }
+    }
+  ],
+  "contributor": [],
+  "citation": {
+    "@type": "CreativeWork",
+    "url": "https://doi.org/10.5281/zenodo.18770348"
+  }
+}
