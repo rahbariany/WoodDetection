@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "WoodDetection"
+version: "1.0.0"
+doi: "10.5281/zenodo.18770348"
+date-released: "2026-02-25"
+authors:
+  - family-names: "Rahbarian"
+    given-names: "MohammadMahdi"
+    affiliation: "User"
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Rahbarian"
+      given-names: "MohammadMahdi"
+  title: "WoodDetection"
+  doi: "10.5281/zenodo.18770348"
+  version: "1.0.0"
+  date-released: "2026-02-25"
